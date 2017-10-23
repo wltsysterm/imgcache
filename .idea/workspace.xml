@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddc11b45-897c-4107-9138-df2ac88022cd" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/qrcode-debug/interfaceInfoTable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/qrcode-debug/interfaceSetting.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/qrcode-debug/mockCalling.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,19 +40,33 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            <state relative-caret-position="432">
+              <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding>
-                <marker date="1508750470029" expanded="true" signature="20399:20417" ph="..." />
-                <marker date="1508750470029" expanded="true" signature="20399:20430" ph="..." />
-                <marker date="1508750470029" expanded="true" signature="20399:20445" ph="..." />
+                <marker date="1508751314060" expanded="true" signature="23304:23427" ph="..." />
+                <marker date="1508751314060" expanded="true" signature="23306:23412" ph="..." />
+                <marker date="1508751314060" expanded="true" signature="23363:23399" ph="..." />
+                <marker date="1508751314060" expanded="true" signature="23462:23845" ph="..." />
+                <marker date="1508751314060" expanded="true" signature="23475:23830" ph="..." />
+                <marker date="1508751314060" expanded="true" signature="23510:23816" ph="..." />
+                <marker date="1508751314060" expanded="true" signature="23529:23801" ph="..." />
+                <marker date="1508751314060" expanded="true" signature="23603:23781" ph="..." />
+                <marker date="1508751314060" expanded="true" signature="23643:23747" ph="..." />
+                <marker date="1508751314060" expanded="true" signature="23664:23725" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="interfaceInfoTable.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="interfaceInfoTable.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/qrcode-debug/interfaceInfoTable.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="interfaceSetting.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/img/qrcode-debug/interfaceSetting.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -285,12 +302,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508740333002</updated>
-      <workItem from="1508740336789" duration="4063000" />
+      <workItem from="1508740336789" duration="4900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4063000" />
+    <option name="totallyTimeSpent" value="4900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -303,7 +320,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5699659" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18600683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -352,14 +369,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        <state relative-caret-position="432">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding>
-            <marker date="1508750470029" expanded="true" signature="20399:20417" ph="..." />
-            <marker date="1508750470029" expanded="true" signature="20399:20430" ph="..." />
-            <marker date="1508750470029" expanded="true" signature="20399:20445" ph="..." />
+            <marker date="1508751314060" expanded="true" signature="23304:23427" ph="..." />
+            <marker date="1508751314060" expanded="true" signature="23306:23412" ph="..." />
+            <marker date="1508751314060" expanded="true" signature="23363:23399" ph="..." />
+            <marker date="1508751314060" expanded="true" signature="23462:23845" ph="..." />
+            <marker date="1508751314060" expanded="true" signature="23475:23830" ph="..." />
+            <marker date="1508751314060" expanded="true" signature="23510:23816" ph="..." />
+            <marker date="1508751314060" expanded="true" signature="23529:23801" ph="..." />
+            <marker date="1508751314060" expanded="true" signature="23603:23781" ph="..." />
+            <marker date="1508751314060" expanded="true" signature="23643:23747" ph="..." />
+            <marker date="1508751314060" expanded="true" signature="23664:23725" ph="..." />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/qrcode-debug/interfaceParamInfoTable.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/qrcode-debug/interfaceInfoTable.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/qrcode-debug/mockCalling.jpg">
@@ -367,7 +401,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/qrcode-debug/interfaceInfoTable.png">
+    <entry file="file://$PROJECT_DIR$/img/qrcode-debug/interfaceSetting.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
